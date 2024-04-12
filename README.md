@@ -4,4 +4,4 @@ I'm a CS student at Sorbonne University. I'm interested in GNU/linux, cybersecur
 
 You can find the things I'm currently working on in my pinned repos.
 
-[dotfiles](https://github.com/yopaman/dotfiles)
+[dotfiles](https://github.com/yopaman/nixos-config)
